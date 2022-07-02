@@ -12,10 +12,7 @@ export default function HomePage() {
         <Navigate to="/contacts" />
       ) : (
         <div className={styles.section}>
-          <h1 className={styles.title}>Welcome to the phone book.</h1>
-          <p className={styles.text}>
-            Before you get started, please register or log in.
-          </p>
+          <h1 className={styles.title}>Welcome to the phonebook</h1>
         </div>
       )}
     </>

@@ -1,6 +1,5 @@
 .auth {
   display: flex;
-  align-items: center;
   justify-content: center;
   font-weight: bold;
 }
@@ -11,6 +10,7 @@
   margin-top: 10px;
   margin-left: 20px;
   text-decoration: none;
+  align-items: center;
 }
 
 .button:hover,

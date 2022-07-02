@@ -12,11 +12,6 @@
   text-decoration: none;
 }
 
-.button:hover,
-.button:focus {
-  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
-}
-
 .active {
   color: black;
   border-radius: 5px;

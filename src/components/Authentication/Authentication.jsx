@@ -13,7 +13,7 @@ export default function Authentication() {
             : styles.button;
         }}
       >
-        Login
+        Log in
       </NavLink>
       <NavLink
         to="/register"

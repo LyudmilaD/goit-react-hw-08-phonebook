@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[469],{1469:function(e,t,n){n.r(t),n.d(t,{default:function(){return h}});var o=n(6871),a=n(1405),c=n(7851),r="HomePage_section__bINJC",s="HomePage_title__UFLA3",l=n(3329);function h(){var e=(0,a.v9)(c.um.getIsLoggedIn);return(0,l.jsx)(l.Fragment,{children:e?(0,l.jsx)(o.Fg,{to:"/contacts"}):(0,l.jsx)("div",{className:r,children:(0,l.jsx)("h1",{className:s,children:"Welcome to the phonebook"})})})}}}]);
+//# sourceMappingURL=469.5fd9eb86.chunk.js.map

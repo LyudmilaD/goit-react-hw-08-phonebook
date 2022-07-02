@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  border-bottom: 2px solid rgb(210, 210, 210);
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  padding-top: 20px;
+  padding-bottom: 20px;
+ 
+}
+
+  .nav {
+    display: flex;
+    width: 540px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+  }

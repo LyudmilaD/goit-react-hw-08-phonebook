@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.button {
+  width: 140px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.button:hover,
+.button:focus {
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.active {
+  color: black;
+  border-radius: 5px;
+  background-color: ivory;
+}
